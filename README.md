@@ -77,7 +77,7 @@ project-root/
 - If the producer script is relaunched, the deduplication mechanism will prevent duplicate data from being stored in MongoDB.
 - If you want to adjust the data sending speed, modify the time.sleep() in the producer script.
 - For New_information.csv file you can click this link https://drive.google.com/file/d/1Mi6v4CV7VE6lBlbL9l16eHmLL3wCrb0E/view?usp=sharing .
-- ![Data Result](C:\Data\Data engineer DigitalSkola/MongoDB data Result.png)
+- ![MongoDB data Result](C:\Data\Data engineer DigitalSkola\Project 4 - Stream Processing\MongoDB data Result.png)
 
 This project demonstrates how to set up a basic stream processing pipeline using Kafka and MongoDB with deduplication functionality.
 Feel free to adjust the parameters to suit your needs!
